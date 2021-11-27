@@ -2,6 +2,7 @@
 #define NCURSES_DISPLAY_H
 
 #include <curses.h>
+#include <unistd.h>
 
 #include "process.h"
 #include "system.h"
